@@ -3,7 +3,7 @@
 .idea/
 *.suo
 *.ntvs*
-*.njsproj
+*.njsproj 
 
 # Operating System Files
 .DS_Store
